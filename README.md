@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BintuZoir
+- 👋 Hi, I’m @Soliha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on muslim
