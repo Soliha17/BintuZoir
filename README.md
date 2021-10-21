@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Soliha
+- 👋 Hi, I’m @Soliha17
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on muslim
+- 💞️ I’m looking to collaborate on web developer
 - 📫 How to reach me solyatursuntash@gmail.com
 
 <!---
